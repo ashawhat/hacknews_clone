@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: HackerClone_development
+
+test:
+  adapter: postgresql
+  database: HackerClone_test
